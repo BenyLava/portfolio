@@ -13,10 +13,10 @@ import Footer from '../components/Footer';
 const Index = () => {
   return (
     <Layout pageTitle="Benfolio">
-      <Header />
+      
       <Hero />
       <About />
-      <Service />
+     
       <Footer />
     </Layout>
   )

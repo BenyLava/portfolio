@@ -18,8 +18,8 @@ const Hero = () => {
             
 
             <div className="text-center d-flex justify-content-center">
-             <a href="#service" className="btn text-dark text-center font-weight-bold d-flex justify-content-center align-items-center ">
-              View my work    <span className="ml-2 right-icon">  &#8594;</span>
+             <a href="/Resume0.pdf" target="_blank" className="btn text-dark text-center font-weight-bold d-flex justify-content-center align-items-center ">
+              View my resume   <span className="ml-2 right-icon">  &#8594;</span>
              </a>
              </div>
           </div>

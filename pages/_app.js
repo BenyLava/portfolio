@@ -4,7 +4,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/globals.css';
 import '../styles/header.css';
-import '../styles/main.scss';
+
 
 import { config, library } from '@fortawesome/fontawesome-svg-core'
 import {
