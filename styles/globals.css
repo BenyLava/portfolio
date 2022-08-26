@@ -46,6 +46,8 @@ body {
 .btn:hover {
   background-color: black;
   color: white !important;
+  transform: scale(1.05);
+    transition: transform 0.7s ease;
 }
 
 
@@ -111,3 +113,9 @@ a {
 
 
 
+.text:hover {
+  color: #ff0099 !important;
+    transform: scale(1.05);
+    transition: transform 0.7s ease;
+
+}

@@ -8,9 +8,9 @@ const Hero = () => {
       <Container className="">
         <Row className=" align-items-center">
           <div className=" pr-lg-5">
-            <h1 className="text-dark font-weight-bold f-24 pb-5 mb-4 text-center">Hi, I'm Ben</h1>
+            <h1 className="text-dark text font-weight-bold f-24 pb-5 mb-4 text-center">Hi, I'm Ben</h1>
             <br/>
-            <h1 className="mb-4 text-dark font-weight-normal line-height-1_4 text-center">A full-stack web developer</h1>
+            <h1 className="mb-4 text text-dark font-weight-normal line-height-1_4 text-center">A web developer</h1>
             <br/>
             <br/>
             <br/>
